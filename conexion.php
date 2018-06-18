@@ -1,7 +1,7 @@
 <?php
 	$server = "localhost";
 	$user = "root";
-	$password = "";//poner tu propia contraseña, si tienes una.
+	$password = "";//ponjhjer tu propia contraseña, si tienes una.
 	$bd = "master_rollout";
 
 	$conexion = mysqli_connect($server, $user, $password, $bd);
